@@ -11,7 +11,7 @@ Cloning is making a local exact copy of all of the code in a repo.
 ### 4. What is a push?
 A push is an upload.
 ### 5. What is a pull?
-
+A pull is a download.
 ### 6. What is a pull request?
 
 ### 7. What is a branch?
