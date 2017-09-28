@@ -9,7 +9,7 @@ Forking is taking a repo so you can make changes to a project without affecting 
 ### 3. What does it mean to “clone” a repo?
 Cloning is making a local exact copy of all of the code in a repo.
 ### 4. What is a push?
-
+A push is an upload.
 ### 5. What is a pull?
 
 ### 6. What is a pull request?
