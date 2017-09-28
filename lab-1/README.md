@@ -5,7 +5,7 @@ Use your favorite text editor ([Sublime Text](https://www.sublimetext.com/), [At
 ### 1. What is a repository (or repo)?
 A repository is a folder controlled by git.
 ### 2. What does it mean to “fork” a repo?
-
+Forking is taking a repo so you can make changes to a project without affecting the original repo
 ### 3. What does it mean to “clone” a repo?
 
 ### 4. What is a push?
