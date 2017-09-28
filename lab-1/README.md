@@ -13,5 +13,5 @@ A push is an upload.
 ### 5. What is a pull?
 A pull is a download.
 ### 6. What is a pull request?
-
+A pull request is an inquiry to have any changes you make to a repo accepted by the repo's creator.
 ### 7. What is a branch?
