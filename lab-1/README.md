@@ -7,7 +7,7 @@ A repository is a folder controlled by git.
 ### 2. What does it mean to “fork” a repo?
 Forking is taking a repo so you can make changes to a project without affecting the original repo
 ### 3. What does it mean to “clone” a repo?
-
+Cloning is making a local exact copy of all of the code in a repo.
 ### 4. What is a push?
 
 ### 5. What is a pull?
